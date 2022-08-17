@@ -20,7 +20,7 @@
 
 [**Data Vizualisation in presented in Tableau**](https://public.tableau.com/app/profile/rohit.bhimrao.jondhale/viz/HealthcareProject_16585068475670/CapstoneProject-Healthcare?publish=yes)
 
-------------------------------------*******************************************-------------------------------------------------------------------------
+------------------------------------*******************************************----------------------------
 [**Project 2: Loan Prediction Analysis**](https://github.com/rohitjondhalems/Loan-Prediction-Analysis)
 Loan Prediction Analysis using Stack-ensemble Models 
 -Data cleaning, Fitted different kinds of algorithms such as Logistic Regression, Decision Tree Classifier, Random Forest Classifier, 
