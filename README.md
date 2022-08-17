@@ -1,9 +1,6 @@
 ## Welcome to Rohit Bhimrao Jondhale Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/rohitjondhalems/rohit_jondhale.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-
-[**Project 1: Diabetic Prediction**](https://github.com/rohitjondhalems/Diabetes-Prediction)
+[**Project 1: Diabetic Prediction**](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio)
 -Performed Discriptive Analysis.
 -Filled null values with respective the skweness and normally distributed values of the data with median and mean. 
 -Histogram plotted for the data distrubution.
