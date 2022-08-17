@@ -20,7 +20,7 @@
 
 [**Data Vizualisation in presented in Tableau**](https://public.tableau.com/app/profile/rohit.bhimrao.jondhale/viz/HealthcareProject_16585068475670/CapstoneProject-Healthcare?publish=yes)
 
- ————————————---------*******************************************————————------- 
+ ————————————---------🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹————————------- 
  
 [**Project 2: Loan Prediction Analysis**](https://github.com/rohitjondhalems/Loan-Prediction-Analysis)
 Loan Prediction Analysis using Stack-ensemble Models 
@@ -29,7 +29,7 @@ Loan Prediction Analysis using Stack-ensemble Models
 -Tried StackEnsemble Models with Logistic Regression, Naive Bayes, Random Forest Classifier, Gradient Boosting Classifier, Quadratic Discriminant Analysis, Support Vector Machines Classifier, K-Neigherest Neighbors and Decision Tree Classifier, XGBoost Classifier and XGBoost Random Forest Classifier. 
 -Checking model with K-fold Cross-validation as cv=10 with theirs mean as output.
 
- ————————————---------*******************************************————————------- 
+ ————————————---------🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸————————------- 
 
 [**Project 3: Advance Regression House Price**](https://github.com/rohitjondhalems/Advance-Regression-House-Price-Prediction)
  Advance Regression House Price Prediction 
@@ -38,13 +38,13 @@ Loan Prediction Analysis using Stack-ensemble Models
  -Label Encoading. 
  -Used Linear Regression, Decision Tree Regressor, Gradient boosting Regressor, Cross Validation.
 
- ————————————---------*******************************************————————------- 
+ ————————————---------💙💙💙💙💙💙💙💙💙💙💙💙————————------- 
 
  [**Project 4: Mercedes Benz Greener Manufacturing**](https://github.com/rohitjondhalems/Mercedes-Benz-Greener-Manufacturing-Project)
  -Performed PCA 
  -predicted values using XGBoost
  
-  ————————————---------*******************************************————————------- 
+  ————————————---------❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️————————------- 
  
  [**Project 5: Black-Friday-Sale-Prediction**](https://github.com/rohitjondhalems/Black-Friday-Sale-Prediction)
  -Handling missing Values
@@ -52,18 +52,18 @@ Loan Prediction Analysis using Stack-ensemble Models
  -Label Encoding,  
  -Linear Regression, Decision Tree Regressor, XGB Regressor.
  
-  ————————————---------*******************************************————————------- 
+  ————————————---------💚💚💚💚💚💚💚💚💚💚💚💚————————------- 
  
  [**Project 6: Retail Analysis with Walmart Data**](https://github.com/rohitjondhalems/Retail-Analysis-with-Walmart-Data)
  
  
-  ————————————---------*******************************************————————------- 
+  ————————————---------❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️————————------- 
  
  [**Project 7: Chronic Kidney Disease Prediction**](https://github.com/rohitjondhalems/Chronic-Kidney-Disease-Prediction)
  -Chronic Kidney Disease Prediction using Logistic regression, Support Vector Machines, Naive Bayes, etc. 
  -Used Cross-validation for the model accuracy.
  
-  ————————————---------*******************************************————————------- 
+  ————————————---------🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻————————------- 
  
  [**Project 8: Stroke Prediction**](https://github.com/rohitjondhalems/Stroke-Prediction)
  -Data Cleaning, missing values handling, 
