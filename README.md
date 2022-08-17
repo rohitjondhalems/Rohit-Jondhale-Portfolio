@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/rohitjondhalems/rohit_jond
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-Project 1: Diabetic Prediction
+[**Project 1: Diabetic Prediction**][((https://github.com/rohitjondhalems/Diabetes-Prediction))]
 -Performed Discriptive Analysis.
 -Filled null values with respective the skweness and normally distributed values of the data with median and mean. 
 -Histogram plotted for the data distrubution.
