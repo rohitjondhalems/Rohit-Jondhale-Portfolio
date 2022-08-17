@@ -45,8 +45,8 @@ Loan Prediction Analysis using Stack-ensemble Models
  -predicted values using XGBoost
  
   ————————————❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️————————
- 
- ## [**Project 5: Black-Friday-Sale-Prediction**](https://github.com/rohitjondhalems/Black-Friday-Sale-Prediction)
+  
+  ## [**Project 5: Black-Friday-Sale-Prediction**](https://github.com/rohitjondhalems/Black-Friday-Sale-Prediction)
  -Handling missing Values
  -Data cleaning,
  -Label Encoding,  
