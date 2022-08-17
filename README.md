@@ -9,7 +9,7 @@
 -Pair plot also created to see the relationship between variables at once. 
 -Performed the correlation Analysis with Pearsons Correlation.
 - Spliting data into training and testing dataset.
-- Different ML model implimented such as Logistic Regression, Decision Tree, Random Forest classifier, XGBoost classifier, Gradient Boosting classifier, Support Vector Machine classifier, KNN classifier, Naive Bayes, XGBoost Random Forest Classifier.
+- Different ML model implimented such as Logistic Regression, Decision Tree, Random Forest classifier, XGBoost classifier, Gradient Boosting classifier, Support Vector   Machine classifier, KNN classifier, Naive Bayes, XGBoost Random Forest Classifier.
 -Classification report printed for model validation also checked the AUC-ROC for the model evaluation.
 
 ![XGBRF ROC](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio/blob/main/Images/XGBRF%20ROC.png?raw=true)
