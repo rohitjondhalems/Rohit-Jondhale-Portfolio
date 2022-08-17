@@ -1,5 +1,7 @@
 ## Welcome to Rohit Bhimrao Jondhale Data Science Portfolio 😊
 
+![](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio/blob/main/Images/Stastics.gif?raw=true)
+
 [**Project 1: Diabetic Prediction**](https://github.com/rohitjondhalems/Diabetes-Prediction)
 -Performed Discriptive Analysis.
 -Filled null values with respective the skweness and normally distributed values of the data with median and mean. 
@@ -74,14 +76,14 @@ Loan Prediction Analysis using Stack-ensemble Models
  -classification report
  -pd.crosstab on (y_train, y_pred) to get type 1 and type 2 error.
 
- ————————————---------*******************************************————————------- 
+————————————⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐———————— 
 
 [**Project 9: College Admission Prediction using R**](https://github.com/rohitjondhalems/College-Admission-Prediction-using-R)
 -Predictive Analysis - Outlier treatement, EDA, Boxplot and QQ plot, Shapiro-Wilk test for normality, 
 -Skweness and Kurtosis corrected with logrithmic and square root transformation,
 -Logistic Regression, Decision Tree, Naive Bayes, SVM, KNN, Descriptive Analysis, Point chart.
 
- ————————————---------*******************************************————————------- 
+————————————🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻———————— 
 
 
 
