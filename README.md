@@ -18,11 +18,11 @@
 -![Stacked Ensemble Model](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio/blob/main/Images/Stack%20Ensemble%20Model.jpg?raw=true)
 
 
-###[**Data Vizualisation in presented in Tableau**](https://public.tableau.com/app/profile/rohit.bhimrao.jondhale/viz/HealthcareProject_16585068475670/CapstoneProject-Healthcare?publish=yes)
+### [**Data Vizualisation in presented in Tableau**](https://public.tableau.com/app/profile/rohit.bhimrao.jondhale/viz/HealthcareProject_16585068475670/CapstoneProject-Healthcare?publish=yes)
 
  ————————————🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹————————
  
-##[**Project 2: Loan Prediction Analysis**](https://github.com/rohitjondhalems/Loan-Prediction-Analysis)
+## [**Project 2: Loan Prediction Analysis**](https://github.com/rohitjondhalems/Loan-Prediction-Analysis)
 Loan Prediction Analysis using Stack-ensemble Models 
 -Data cleaning, Fitted different kinds of algorithms such as Logistic Regression, Decision Tree Classifier, Random Forest Classifier, 
 -Checking model with Cross-Validation. 
@@ -31,7 +31,7 @@ Loan Prediction Analysis using Stack-ensemble Models
 
  ————————————🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸————————
 
-##[**Project 3: Advance Regression House Price**](https://github.com/rohitjondhalems/Advance-Regression-House-Price-Prediction)
+## [**Project 3: Advance Regression House Price**](https://github.com/rohitjondhalems/Advance-Regression-House-Price-Prediction)
  Advance Regression House Price Prediction 
  -Cleaning the data. 
  -Used Normalisation Technique. 
@@ -40,13 +40,13 @@ Loan Prediction Analysis using Stack-ensemble Models
 
  ————————————💙💙💙💙💙💙💙💙💙💙💙💙————————
 
- ##[**Project 4: Mercedes Benz Greener Manufacturing**](https://github.com/rohitjondhalems/Mercedes-Benz-Greener-Manufacturing-Project)
+ ## [**Project 4: Mercedes Benz Greener Manufacturing**](https://github.com/rohitjondhalems/Mercedes-Benz-Greener-Manufacturing-Project)
  -Performed PCA 
  -predicted values using XGBoost
  
   ————————————❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️————————
  
- ##[**Project 5: Black-Friday-Sale-Prediction**](https://github.com/rohitjondhalems/Black-Friday-Sale-Prediction)
+ ## [**Project 5: Black-Friday-Sale-Prediction**](https://github.com/rohitjondhalems/Black-Friday-Sale-Prediction)
  -Handling missing Values
  -Data cleaning,
  -Label Encoding,  
@@ -54,18 +54,18 @@ Loan Prediction Analysis using Stack-ensemble Models
  
   ————————————💚💚💚💚💚💚💚💚💚💚💚💚————————
  
- ##[**Project 6: Retail Analysis with Walmart Data**](https://github.com/rohitjondhalems/Retail-Analysis-with-Walmart-Data)
+ ## [**Project 6: Retail Analysis with Walmart Data**](https://github.com/rohitjondhalems/Retail-Analysis-with-Walmart-Data)
  
  
   ————————————❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️————————
  
- ##[**Project 7: Chronic Kidney Disease Prediction**](https://github.com/rohitjondhalems/Chronic-Kidney-Disease-Prediction)
+ ## [**Project 7: Chronic Kidney Disease Prediction**](https://github.com/rohitjondhalems/Chronic-Kidney-Disease-Prediction)
  -Chronic Kidney Disease Prediction using Logistic regression, Support Vector Machines, Naive Bayes, etc. 
  -Used Cross-validation for the model accuracy.
  
   ————————————🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻———————— 
  
- ##[**Project 8: Stroke Prediction**](https://github.com/rohitjondhalems/Stroke-Prediction)
+ ## [**Project 8: Stroke Prediction**](https://github.com/rohitjondhalems/Stroke-Prediction)
  -Data Cleaning, missing values handling, 
  -Checking for skweness and kurtosis 
  -Label Encoding, 
@@ -76,7 +76,7 @@ Loan Prediction Analysis using Stack-ensemble Models
 
 ————————————⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐———————— 
 
-##[**Project 9: College Admission Prediction using R**](https://github.com/rohitjondhalems/College-Admission-Prediction-using-R)
+## [**Project 9: College Admission Prediction using R**](https://github.com/rohitjondhalems/College-Admission-Prediction-using-R)
 -Predictive Analysis - Outlier treatement, EDA, Boxplot and QQ plot, Shapiro-Wilk test for normality, 
 -Skweness and Kurtosis corrected with logrithmic and square root transformation,
 -Logistic Regression, Decision Tree, Naive Bayes, SVM, KNN, Descriptive Analysis, Point chart.
