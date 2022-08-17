@@ -14,6 +14,11 @@
 -Also, stacked ensemble technique used to show these model at once with the accuracy score by gridsearch CV.
 
 [**Project 2: Advance Regression House Price**](https://github.com/rohitjondhalems/Advance-Regression-House-Price-Prediction)
+ Advance Regression House Price Prediction 
+ -Cleaning the data. 
+ - Used Normalisation Technique. 
+ -Label Encoading. 
+ -Used Linear Regression, Decision Tree Regressor, Gradient boosting Regressor, Cross Validation.
 
 ### Jekyll Themes
 
