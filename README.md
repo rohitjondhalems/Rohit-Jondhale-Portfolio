@@ -1,6 +1,6 @@
 ## Welcome to Rohit Bhimrao Jondhale Data Science Portfolio
 
-[**Project 1: Diabetic Prediction**](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio)
+[**Project 1: Diabetic Prediction**](https://github.com/rohitjondhalems/Diabetes-Prediction)
 -Performed Discriptive Analysis.
 -Filled null values with respective the skweness and normally distributed values of the data with median and mean. 
 -Histogram plotted for the data distrubution.
