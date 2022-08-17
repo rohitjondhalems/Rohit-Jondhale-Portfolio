@@ -12,7 +12,9 @@
 - Different ML model implimented such as Logistic Regression, Decision Tree, Random Forest classifier, XGBoost classifier, Gradient Boosting classifier, Support Vector Machine classifier, KNN classifier, Naive Bayes, XGBoost Random Forest Classifier.
 -Classification report printed for model validation also checked the AUC-ROC for the model evaluation.
 -Also, stacked ensemble technique used to show these model at once with the accuracy score by gridsearch CV.
--![Stacked Ensemble Model](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio/blob/main/Images/Stack%20Ensemble%20Model.jpg)
+-![Stacked Ensemble Model](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio/blob/main/Images/Stack%20Ensemble%20Model.jpg?raw=true)
+
+
 
 [**Data Vizualisation in presented in Tableau**](https://public.tableau.com/app/profile/rohit.bhimrao.jondhale/viz/HealthcareProject_16585068475670/CapstoneProject-Healthcare?publish=yes)
 
