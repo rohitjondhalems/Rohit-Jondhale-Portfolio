@@ -11,14 +11,16 @@
 - Spliting data into training and testing dataset.
 - Different ML model implimented such as Logistic Regression, Decision Tree, Random Forest classifier, XGBoost classifier, Gradient Boosting classifier, Support Vector Machine classifier, KNN classifier, Naive Bayes, XGBoost Random Forest Classifier.
 -Classification report printed for model validation also checked the AUC-ROC for the model evaluation.
+
+![XGBRF ROC](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio/blob/main/Images/XGBRF%20ROC.png?raw=true)
+
 -Also, stacked ensemble technique used to show these model at once with the accuracy score by gridsearch CV.
 -![Stacked Ensemble Model](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio/blob/main/Images/Stack%20Ensemble%20Model.jpg?raw=true)
 
 
-
 [**Data Vizualisation in presented in Tableau**](https://public.tableau.com/app/profile/rohit.bhimrao.jondhale/viz/HealthcareProject_16585068475670/CapstoneProject-Healthcare?publish=yes)
 
-
+------------------------------------*******************************************----------------------------------------------------------------------------------------
 [**Project 2: Loan Prediction Analysis**](https://github.com/rohitjondhalems/Loan-Prediction-Analysis)
 Loan Prediction Analysis using Stack-ensemble Models 
 -Data cleaning, Fitted different kinds of algorithms such as Logistic Regression, Decision Tree Classifier, Random Forest Classifier, 
