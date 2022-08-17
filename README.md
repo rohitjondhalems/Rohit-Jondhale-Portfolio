@@ -38,12 +38,15 @@ Loan Prediction Analysis using Stack-ensemble Models
  -Label Encoding,  
  -Linear Regression, Decision Tree Regressor, XGB Regressor.
  
+ [**Project 6: Retail Analysis with Walmart Data**](https://github.com/rohitjondhalems/Retail-Analysis-with-Walmart-Data)
  
- [**Project 6: Chronic Kidney Disease Prediction**](https://github.com/rohitjondhalems/Chronic-Kidney-Disease-Prediction)
+ 
+ 
+ [**Project 7: Chronic Kidney Disease Prediction**](https://github.com/rohitjondhalems/Chronic-Kidney-Disease-Prediction)
  -Chronic Kidney Disease Prediction using Logistic regression, Support Vector Machines, Naive Bayes, etc. 
  -Used Cross-validation for the model accuracy.
  
- [**Project 7: Stroke Prediction**](https://github.com/rohitjondhalems/Stroke-Prediction)
+ [**Project 8: Stroke Prediction**](https://github.com/rohitjondhalems/Stroke-Prediction)
  -Data Cleaning, missing values handling, 
  -Checking for skweness and kurtosis 
  -Label Encoding, 
@@ -51,6 +54,16 @@ Loan Prediction Analysis using Stack-ensemble Models
  -cross validation
  -classification report
  -pd.crosstab on (y_train, y_pred) to get type 1 and type 2 error.
+
+[**Project 9: College Admission Prediction using R**](https://github.com/rohitjondhalems/College-Admission-Prediction-using-R)
+-Predictive Analysis - Outlier treatement, EDA, Boxplot and QQ plot, Shapiro-Wilk test for normality, 
+-Skweness and Kurtosis corrected with logrithmic and square root transformation,
+-Logistic Regression, Decision Tree, Naive Bayes, SVM, KNN, Descriptive Analysis, Point chart.
+
+
+
+
+
 
 ### Jekyll Themes
 
