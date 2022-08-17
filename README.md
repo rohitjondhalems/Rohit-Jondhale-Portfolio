@@ -40,7 +40,7 @@ Loan Prediction Analysis using Stack-ensemble Models
 
  ————————————💙💙💙💙💙💙💙💙💙💙💙💙————————
 
- ## [**Project 4: Mercedes Benz Greener Manufacturing**](https://github.com/rohitjondhalems/Mercedes-Benz-Greener-Manufacturing-Project)
+## [**Project 4: Mercedes Benz Greener Manufacturing**](https://github.com/rohitjondhalems/Mercedes-Benz-Greener-Manufacturing-Project)
  -Performed PCA 
  -predicted values using XGBoost
  
