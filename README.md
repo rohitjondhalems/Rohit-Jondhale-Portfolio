@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/rohitjondhalems/rohit_jondhale.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 
-[**Project 1: Diabetic Prediction**][((https://github.com/rohitjondhalems/Diabetes-Prediction))]
+[**Project 1: Diabetic Prediction**](https://github.com/rohitjondhalems/Diabetes-Prediction)
 -Performed Discriptive Analysis.
 -Filled null values with respective the skweness and normally distributed values of the data with median and mean. 
 -Histogram plotted for the data distrubution.
@@ -17,18 +17,6 @@ You can use the [editor on GitHub](https://github.com/rohitjondhalems/rohit_jond
 -Also, stacked ensemble technique used to show these model at once with the accuracy score by gridsearch CV.
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
