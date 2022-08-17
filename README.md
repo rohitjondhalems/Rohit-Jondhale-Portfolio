@@ -1,4 +1,4 @@
-## Welcome to Rohit Bhimrao Jondhale Data Science Portfolio :blush:
+## Welcome to Rohit Bhimrao Jondhale Data Science Portfolio 😊
 
 [**Project 1: Diabetic Prediction**](https://github.com/rohitjondhalems/Diabetes-Prediction)
 -Performed Discriptive Analysis.
