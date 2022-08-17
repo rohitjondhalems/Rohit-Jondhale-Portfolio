@@ -1,4 +1,4 @@
-# Welcome to Rohit Bhimrao Jondhale Data Science Portfolio ![](https://github.com/rohitjondhalems/Rohit-Jondhale-Portfolio/blob/main/Images/rohit.png?raw=true)
+# Welcome to Rohit Bhimrao Jondhale Data Science Portfolio 😊
 
 ## [**Project 1: Diabetic Prediction**](https://github.com/rohitjondhalems/Diabetes-Prediction)
 -Performed Discriptive Analysis.
@@ -44,7 +44,7 @@ Loan Prediction Analysis using Stack-ensemble Models
  -Performed PCA 
  -predicted values using XGBoost
  
-  ————————————❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️————————
+  ————————————❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️———————-
   
   ## [**Project 5: Black-Friday-Sale-Prediction**](https://github.com/rohitjondhalems/Black-Friday-Sale-Prediction)
  -Handling missing Values
